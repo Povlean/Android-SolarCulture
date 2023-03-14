@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.bigjobapplication">
+    <!-- 添加网络权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="二十四节气 Povlean"
+        android:largeHeap="true"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BigJobApplication"
+        tools:targetApi="31">
+        <activity
+            android:name=".FindUpdateActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FindAddActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FindItemActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FindPasActivity"
+            android:exported="true" />
+        <activity
+            android:name=".season.WinterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".season.AutumnActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".season.SummerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".season.SpringActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SQLiteTestActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".WelcomeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
