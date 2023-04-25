@@ -36,3 +36,5 @@ Android-Studio 前端＋移动后端
 这个Solarterm就是原先的andriod-solar-term，代码中的yml文件有改动，改动处为server.port，将默认的8080端口改为了8082
 
 安卓前端BigJobApplication文件整合了gradle依赖和必要的环境搭建，安卓集成环境使用的是Android Studio，Java环境为JDK11，设备为Pixel 6 Pro API 27
+
+预期希望能做到拉取即用
