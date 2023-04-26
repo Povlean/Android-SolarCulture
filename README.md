@@ -49,23 +49,23 @@ Android-Studio 前端＋移动后端
 
 注册页面：
 
-![](.\image\register.jpg)
+![register](https://github.com/Povlean/Android-SolarCulture/blob/main/image/register.jpg)
 
 首页界面：
 
-![](.\image\main.jpg)
+![main](https://github.com/Povlean/Android-SolarCulture/blob/main/image/main.jpg)
 
 卡片效果：
 
 卡片效果为静态页面的展示，该卡片是冬季的页面效果，其余的三个季节也是可以点开的，如果遇到点开崩溃的情况，请找到对应代码删除图片。
 
-![](.\image\mainCard.jpg)
+![mainCard](https://github.com/Povlean/Android-SolarCulture/blob/main/image/mainCard.jpg)
 
 发现页卡片：
 
 点击之后，会有几秒的反应时间，因为子线程承担了发送请求的逻辑，线程运行需要阻塞以达到数据同步。
 
-![](.\image\find.jpg)
+![find](https://github.com/Povlean/Android-SolarCulture/blob/main/image/find.jpg)
 
 卡片编辑：
 
@@ -73,7 +73,7 @@ Android-Studio 前端＋移动后端
 
 该卡片不可编辑题目，只能编辑内容，因为题目会作为更新的校验标准。
 
-![](.\image\card.jpg)
+![card](https://github.com/Povlean/Android-SolarCulture/blob/main/image/card.jpg)
 
 个人信息：
 
@@ -83,10 +83,10 @@ Android-Studio 前端＋移动后端
 
 年龄，喜欢的食物，出生季节可以进行编辑，编辑完成之后，需要点击修改按钮，当修改完成之后，数据库中的数据就会更新。
 
-![](.\image\info.jpg)
+![info](https://github.com/Povlean/Android-SolarCulture/blob/main/image/info.jpg)
 
 如有问题，可以添加微信进行询问
 
-![](.\image\vx.jpg)
+![vx](https://github.com/Povlean/Android-SolarCulture/blob/main/image/vx.jpg)
 
 结语：该项目是我大三上学期写的android项目，因为只用了课上的内容和一些较为简单的知识补充做出的项目，可优化的点也有很多，BUG也有地方没有修复。该项目仅供学习交流使用。
