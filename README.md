@@ -45,27 +45,27 @@ Android-Studio 前端＋移动后端
 
 如第一次使用，需要先清空user表的数据，然后注册新的账号即可。
 
-![](E:\AndroidCode2\Android-SolarCulture\image\login.jpg)
+![](.\image\login.jpg)
 
 注册页面：
 
-![register](E:\AndroidCode2\Android-SolarCulture\image\register.jpg)
+![](.\image\register.jpg)
 
 首页界面：
 
-![](E:\AndroidCode2\Android-SolarCulture\image\main.jpg)
+![](.\image\main.jpg)
 
 卡片效果：
 
 卡片效果为静态页面的展示，该卡片是冬季的页面效果，其余的三个季节也是可以点开的，如果遇到点开崩溃的情况，请找到对应代码删除图片。
 
-![mainCard](E:\AndroidCode2\Android-SolarCulture\image\mainCard.jpg)
+![](.\image\mainCard.jpg)
 
 发现页卡片：
 
 点击之后，会有几秒的反应时间，因为子线程承担了发送请求的逻辑，线程运行需要阻塞以达到数据同步。
 
-![find](E:\AndroidCode2\Android-SolarCulture\image\find.jpg)
+![](.\image\find.jpg)
 
 卡片编辑：
 
@@ -73,7 +73,7 @@ Android-Studio 前端＋移动后端
 
 该卡片不可编辑题目，只能编辑内容，因为题目会作为更新的校验标准。
 
-![card](E:\AndroidCode2\Android-SolarCulture\image\card.jpg)
+![](.\image\card.jpg)
 
 个人信息：
 
@@ -83,10 +83,10 @@ Android-Studio 前端＋移动后端
 
 年龄，喜欢的食物，出生季节可以进行编辑，编辑完成之后，需要点击修改按钮，当修改完成之后，数据库中的数据就会更新。
 
-![info](E:\AndroidCode2\Android-SolarCulture\image\info.jpg)
+![](.\image\info.jpg)
 
 如有问题，可以添加微信进行询问
 
-![微信图片_20230426104851](E:\AndroidCode2\Android-SolarCulture\image\微信图片_20230426104851.jpg)
+![](.\image\vx.jpg)
 
 结语：该项目是我大三上学期写的android项目，因为只用了课上的内容和一些较为简单的知识补充做出的项目，可优化的点也有很多，BUG也有地方没有修复。该项目仅供学习交流使用。
