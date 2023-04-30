@@ -86,8 +86,6 @@ Android-Studio 前端＋移动后端
 
 ![info](https://github.com/Povlean/Android-SolarCulture/blob/main/image/info.jpg)
 
-如有问题，可以添加微信进行询问
-
-![vx](https://github.com/Povlean/Android-SolarCulture/blob/main/image/vx.jpg)
+如有问题，可以通过image中的二维码添加微信进行询问
 
 结语：该项目是我大三上学期写的android项目，因为只用了课上的内容和一些较为简单的知识补充做出的项目，可优化的点也有很多，BUG也有地方没有修复。该项目仅供学习交流使用。
