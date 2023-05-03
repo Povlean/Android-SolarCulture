@@ -10,7 +10,7 @@ Android-Studio 前端＋移动后端
 
 技术栈：SpringBoot + SSM + MySQL +MyBatis-Plus + Maven + Gradle 
 
-安卓的技术栈不熟悉，不过逻辑简单应该能够看得懂。
+本人没有深入学习过android的理论和技术，对安卓的技术栈不熟悉，该项目的逻辑比较简单简单应该能够看得懂。
 
 大三上期的移动互联网开发课程期末项目。
 
