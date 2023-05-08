@@ -1,7 +1,7 @@
 # Android-SolarCulture 
 ### 二十四节气文化介绍项目
 
-开发环境：IDEA + Android Studio
+开发环境：IDEA + Android Studio 
 
 安卓文件：BigJobApplication
 
