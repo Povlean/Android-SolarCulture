@@ -8,7 +8,7 @@
 
 后端文件：andriod-solar-term
 
-Android-Studio 前端＋SpringBoot 后端
+Android-Studio  前端 ＋ SpringBoot  后端
 
 技术栈：SpringBoot + SSM + MySQL +MyBatis-Plus + Maven + Gradle 
 
