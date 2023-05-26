@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.andriod_solar_term.mapper.SolarMapper">
+
+    <resultMap id="BaseResultMap" type="com.example.andriod_solar_term.beans.Solar">
+            <id property="id" column="id" jdbcType="INTEGER"/>
+            <result property="solarName" column="solar_name" jdbcType="VARCHAR"/>
+            <result property="date" column="date" jdbcType="VARCHAR"/>
+            <result property="description" column="description" jdbcType="VARCHAR"/>
+            <result property="url" column="url" jdbcType="VARCHAR"/>
+            <result property="food" column="food" jdbcType="VARCHAR"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id,solar_name,date,
+        description,url,food
+    </sql>
+    <insert id="addSolar">
+
+    </insert>
+
+    <select id="searchAll" resultType="com.example.andriod_solar_term.beans.Solar">
+        select * from tbl_solar
+    </select>
+
+</mapper>
