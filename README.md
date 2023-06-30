@@ -2,7 +2,7 @@
 开发环境：IDEA + Android Studio  
 
 安卓文件：BigJobApplication
-后端文件：andriod-solar-term 
+后端文件：andriod-solar-term
  
 Android-Studio 前端＋移动后端 
 
