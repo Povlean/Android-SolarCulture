@@ -45,7 +45,7 @@ Android-Studio 前端＋移动后端
 
 如第一次使用，需要先清空user表的数据，然后注册新的账号即可。
 
-(./image/login.jpg)
+![](./image/login.jpg)
 
 注册页面：
 
