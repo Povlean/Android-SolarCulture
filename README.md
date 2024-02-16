@@ -1,11 +1,10 @@
 # Android-SolarCulture 
 开发环境：IDEA + Android Studio
-   
 安卓文件：BigJobApplication
-后端文件：andriod-solar-term
+后端文件：Andriod-Solar-Term
 Android-Studio 前端＋移动后端
 
-技术栈：SpringBoot + SSM + MySQL +MyBatis-Plus + Maven + Gradle 
+技术栈：SpringBoot + SSM + MySQL +MyBatis-Plus + Maven + Gradle
 
 安卓的技术栈不熟悉，不过逻辑简单应该能够看得懂。
 
